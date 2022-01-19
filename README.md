@@ -1,1 +1,2 @@
 # odin-recipes
+The project's goal is to setup a simple website that links to multiple webpages containing recipes. By completing this goal, I will be able to practice the new skills I have recently learned such as setting up lists, linking images and pages, creating a boilerplate, and using headings.
