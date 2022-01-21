@@ -1,0 +1,32 @@
+.header {
+    color: royalblue;
+    background-color: salmon;
+    text-align: center;
+    font-family: Brush Script MT, cursive;
+}
+
+.recipe {
+    font-weight: bold;
+}
+
+.pancake {
+    color: teal;
+}
+
+.waffles {
+    color: rgb(202, 106, 186);
+}
+
+.french-toast {
+    color: rgb(67, 58, 151);
+}
+
+.pancake-pic {
+    height: auto;
+    width: 600px;
+}
+
+.cake {
+    color: sienna;
+    background-color: tan;
+}
