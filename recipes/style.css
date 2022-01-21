@@ -22,7 +22,8 @@
 }
 
 .pancake-pic,
-.waffle-pic {
+.waffle-pic,
+.ftoast-pic {
     height: auto;
     width: 600px;
 }
@@ -46,4 +47,8 @@
 .fancy {
     font-family: cursive;
     font-size: larger;
+}
+.ft {
+    color: palegoldenrod;
+    background-color: brown;
 }
