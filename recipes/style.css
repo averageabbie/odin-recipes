@@ -21,7 +21,8 @@
     color: rgb(67, 58, 151);
 }
 
-.pancake-pic {
+.pancake-pic,
+.waffle-pic {
     height: auto;
     width: 600px;
 }
@@ -37,4 +38,12 @@
 .emphasis {
     color: rgb(243, 36, 0);
     font-weight: bolder;
+}
+.waf {
+    color: beige;
+    background-color: saddlebrown;
+}
+.fancy {
+    font-family: cursive;
+    font-size: larger;
 }
